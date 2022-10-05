@@ -1,0 +1,28 @@
+[
+  {
+    "id": "459ae037-832c-4815-9b20-16e55bfbb8fc",
+    "first_name": "Alex",
+    "last_name": "Aguilar",
+    "email": "ale@ale.com",
+    "password": "123456",
+    "birthday": "1997/01/07"
+  },
+  {
+    "id": "bfb667fb-e547-4dea-9c5d-50fc312a2522",
+    "first_name": "Jose",
+    "last_name": "Aldana",
+    "email": "jose@jose.com",
+    "password": "654321",
+    "birthday": "1997/07/01"
+  },
+  {
+    "id": "6be89ef7-3c7c-4b6e-9135-46677cc70881",
+    "first_name": "Maria",
+    "last_name": "Peña",
+    "email": "maria@maria.com",
+    "password": "holavale",
+    "birthday": "1996/01/20",
+    "createdAt": "10/5/2022, 11:07:37 AM",
+    "updateAt": "10/5/2022, 11:07:38 AM"
+  }
+]
